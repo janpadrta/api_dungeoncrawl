@@ -1,0 +1,39 @@
+{
+  "Room": [
+    {
+      "id": 1,
+      "title": "Entrance Hall",
+      "description": "The main entrance to the building, with a grand staircase leading up.",
+      "left": 2,
+      "right": 3
+    },
+    {
+      "id": 2,
+      "title": "Library",
+      "description": "A quiet room filled with shelves of books and comfortable reading chairs.",
+      "left": 4,
+      "right": 1
+    },
+    {
+      "id": 3,
+      "title": "Dining Room",
+      "description": "A large room with a long dining table and ornate decorations.",
+      "left": 1,
+      "right": 5
+    },
+    {
+      "id": 4,
+      "title": "Study",
+      "description": "A small room with a desk, computer, and various office supplies.",
+      "left": null,
+      "right": 2
+    },
+    {
+      "id": 5,
+      "title": "Kitchen",
+      "description": "A modern kitchen with all the latest appliances and a large island in the center.",
+      "left": 3,
+      "right": null
+    }
+  ]
+}
